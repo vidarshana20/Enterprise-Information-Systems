@@ -1,6 +1,6 @@
 # Enterprise-Information-Systems
 
-Enterprise Resource Planning (ERP) programs:
+<p>Enterprise Resource Planning (ERP) programs:
 Core software used by companies to coordinate
 information in every area of business
 – Help manage companywide business processes
@@ -15,5 +15,5 @@ Processes
 • To understand ERP, you must understand how a
 business works
 – Functional areas of operation
-– Business processes
+– Business processes</p>
 
